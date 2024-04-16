@@ -1,15 +1,14 @@
 #include <iostream>
 using namespace std;
 int main(){
-	srand(time(NULL));
-	cout<<rand()<<endl;
-	cout<<rand()<<endl;
-
-//losowanie w zakresie
-int ile_liczb_w_przedziale = 7;
-int startowa_liczba = 1;
-int wylosowana = rand()% ile_liczb_w_przedziale + startowa_liczba;
-cout<<wylosowana;
-	return 0;
-
-}
+	int a=0;
+	int b=0;
+	int c=0;
+	int d=0
+	cin>>a;
+	cin>>b;
+	cin>>c;
+	cin>>d;
+	int t[4]={a,b,c,d};
+	for (int x=0; x<4; x2++) {
+	if (t[x]>[x2] }
