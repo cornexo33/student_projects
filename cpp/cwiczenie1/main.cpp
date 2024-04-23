@@ -40,7 +40,7 @@ int main() {
     }
     std::cout << std::endl;
 
-    std::cout << "Mediana: " << median << std::endl;
+    std::cout << "Mediana: " << median << std::endl; 
 
     return 0;
 }
